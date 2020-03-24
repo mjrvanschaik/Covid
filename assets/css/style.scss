@@ -3,8 +3,16 @@
 
 @import "{{ site.theme }}";
 
+body {
+  color:#fff;
+  background:#111
+}
+h1, h2 {
+  color:#fff;
+}
+
 footer {
-  display: none !important;c
+  display: none !important;
 }
 
 .btn {
@@ -16,7 +24,7 @@ footer {
 }
 
 #header_wrap{
-  background: linear-gradient(to top, #373737, #0046f9);
+ 
 }
 
 #footer_wrap{
