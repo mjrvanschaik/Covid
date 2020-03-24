@@ -1,43 +1,12 @@
-NO
-# No!
-## No
+## What you should do during the Shelter-in-Place and Stay-at-Home Orders 
 
+* Stay home 
+* Work from home if your job allows
+* Take care of yourself and your loved ones
+* Ask the people around you if they need help in any way 
+* Setup daily calls with your parents and others
+* Be human, be kind, be YOU
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mjrvanschaik/Covid/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjrvanschaik/Covid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## BE PART OF THE SOLUTION
+If you've time on your hands and you want to help in any way, check sites such as:
+ActionAgainstCorona [website](https://actionagainstcorona.org/)
