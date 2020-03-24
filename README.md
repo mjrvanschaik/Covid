@@ -8,6 +8,6 @@
 * Be human, be kind, be YOU
 
 
-## Be part of the solution
-If you've time on your hands and you want to help in any way, check sites such as:
+## Action Against Corona
+If you've time on your hands and you want to help in any way, BE PART OF THE SOLUTION
 [ActionAgainstCorona](https://actionagainstcorona.org/)
