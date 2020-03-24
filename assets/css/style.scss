@@ -5,6 +5,7 @@
 
 footer {
   display: none !important;
+  linear-gradient(to top, #373737, #0046f9);
 }
 
 .btn {
@@ -13,4 +14,8 @@ footer {
 
 #forkme_banner {
   display: none !important;
+}
+
+#header_wrap{
+  linear-gradient(to top, #373737, #0046f9);
 }
