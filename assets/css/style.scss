@@ -4,8 +4,7 @@
 @import "{{ site.theme }}";
 
 footer {
-  display: none !important;
-  background: linear-gradient(to top, #373737, #0046f9);
+  display: none !important;c
 }
 
 .btn {
@@ -17,5 +16,9 @@ footer {
 }
 
 #header_wrap{
+  background: linear-gradient(to top, #373737, #0046f9);
+}
+
+#footer_wrap{
   background: linear-gradient(to top, #373737, #0046f9);
 }
