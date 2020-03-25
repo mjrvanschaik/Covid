@@ -1,38 +1,39 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-cayman';
 
 body {
-  color:#fff;
-  background:#111
-}
-h1, h2 {
-  color:#fff;
-}
-
-footer {
-  display: none !important;
-}
-
-.btn {
-  display: none !important;
-}
-
-#forkme_banner {
-  display: none !important;
-}
-
-#header_wrap{
-
-}
- 
-#main_content_wrap{
-  background:#111;
- 
-}
-
-
-#footer_wrap{
-  background: linear-gradient(to top, #373737, #0046f9);
-}
+    color:#fff;
+    background:#111
+  }
+  h1, h2 {
+    color:#fff;
+  }
+  
+  footer {
+    display: none !important;
+  }
+  
+  .btn {
+    display: none !important;
+  }
+  
+  #forkme_banner {
+    display: none !important;
+  }
+  
+  .page_header{
+    background:#111 !important;
+  }
+   
+  #main_content_wrap{
+    background:#111;
+   
+  }
+  
+  
+  #footer_wrap{
+    background: linear-gradient(to top, #373737, #0046f9);
+  }
+  

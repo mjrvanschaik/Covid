@@ -1,4 +1,6 @@
-theme: jekyll-theme-slate
-description: <div align="center">May I leave my home yet?</div>
-title: <div align="center">NO.</div>
-show_downloads: false
+title: May I leave my home yet?
+covid: NO.
+description: May I leave my home yet?
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
