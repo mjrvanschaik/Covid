@@ -6,7 +6,8 @@ layout: default
 
 
 BE PART OF THE SOLUTION
-[ActionAgainstCorona](https://actionagainstcorona.org/)
+[ActionAgainstCorona.org](https://actionagainstcorona.org/)
+
 
 
 Take care of yourself and your loved ones
