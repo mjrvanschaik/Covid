@@ -5,7 +5,7 @@ layout: default
 
 
 
-BE PART OF THE SOLUTION
+**BE PART OF THE SOLUTION**
 [ActionAgainstCorona.org](https://actionagainstcorona.org/)
 
 
