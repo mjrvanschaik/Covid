@@ -26,13 +26,14 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <h1 class="project-name">{{ page.covid | default: site.covid | default: site.github.repository_name }}</h1>
       
-      
     </header>
 
     <main id="content" class="main-content text-align-center" role="main">
+      <img src="/assets/ActionAgainstCorona.org.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      
       {{ content }}
 
-      
+
 
       <footer class="site-footer">
         
